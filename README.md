@@ -1,8 +1,4 @@
 <img src="./cover.png">
- <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
-    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
-  </a>
-
   <a href="https://github.com/catellaTech" target="_blank">
     <img alt="Author" src="https://img.shields.io/badge/made%20by-CatellaTech-blueviolet?style=flat-square">
   </a>
